@@ -1,6 +1,6 @@
 # frankdeepl-vim
 
-###1. Create vimrc file
+### 1. Create vimrc file
 
 All of configuration of vim is done in file ~/.vimrc. You can download vimrc file directly and replace it.
 ```
@@ -9,7 +9,7 @@ touch .vimrc
 vim .vimrc
 ```
 
-###2. Plugin list
+### 2. Plugin list
 The .vimrc file has been configure some plugins, so this documents show how to download and prepare the plugins.
 The list of plugin:
 ```
@@ -26,14 +26,14 @@ Plugin 'tomtom/tlib_vim'
 Plugin 'garbas/vim-snipmate'
 ```
 #### 2.1.Vundle
-####2.1.1 Prepare the folder
+#### 2.1.1 Prepare the folder
 ```
 cd ~
 mkdir .vim
 cd .vim
 mkdir bundle
 ```
-####2.1.2 Install Plugins
+#### 2.1.2 Install Plugins
 #### 2.1.2.1 Manually
 * Go to the folder: cd ~/.vim/bundle/ 
 * Run the command as below
