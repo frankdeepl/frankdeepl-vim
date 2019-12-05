@@ -10,7 +10,7 @@ vim .vimrc
 ```
 
 ### 2. Plugin list
-The .vimrc file has been configure some plugins, so this documents show how to download and prepare the plugins.
+The .vimrc file has been configured with some plugins, so this document shows how to download and prepare the plugins.
 The list of plugin:
 ```
 Plugin 'VundleVim/Vundle.vim'
@@ -36,7 +36,7 @@ mkdir bundle
 #### 2.1.2 Install Plugins
 #### 2.1.2.1 Manually
 * Go to the folder: cd ~/.vim/bundle/ 
-* Run the command as below
+* Run the command as below:
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 git clone https://github.com/Lokaltog/vim-powerline.git
