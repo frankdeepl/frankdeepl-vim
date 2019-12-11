@@ -32,6 +32,8 @@ cd ~
 mkdir .vim
 cd .vim
 mkdir bundle
+
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 #### 2.1.2 Install Plugins
 #### 2.1.2.1 Manually
