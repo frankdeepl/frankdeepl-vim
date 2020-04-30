@@ -15,6 +15,8 @@ Plugin 'Valloric/YouCompleteMe'
 Plugin 'MarcWeber/vim-addon-mw-utils'
 Plugin 'tomtom/tlib_vim'
 Plugin 'garbas/vim-snipmate'
+Plugin 'vim-scripts/YankRing.vim'
+Plugin 'junegunn/limelight.vim'
 call vundle#end()
 filetype plugin indent on
 
