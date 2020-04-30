@@ -5,7 +5,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'Lokaltog/vim-powerline'
 Plugin 'scrooloose/nerdtree'
-Plugin 'Tggdroot/indentLine'
+Plugin 'yggdroot/indentLine'
 Plugin 'tell-k/vim-autopep7'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'scrooloose/nerdcommenter'
