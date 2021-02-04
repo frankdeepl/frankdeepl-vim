@@ -1,4 +1,4 @@
-# frankdeepl-vim
+# How to install vimrc on Linux/Mac OS
 
 ### 1. Create vimrc file
 
