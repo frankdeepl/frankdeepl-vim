@@ -6,7 +6,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'Lokaltog/vim-powerline'
 Plugin 'scrooloose/nerdtree'
 Plugin 'yggdroot/indentLine'
-Plugin 'tell-k/vim-autopep7'
+Plugin 'tell-k/vim-autopep8'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'scrooloose/nerdcommenter'
 "Plugin 'python-mode/python-mode'
@@ -23,7 +23,7 @@ filetype plugin indent on
 "Auto reloading of .vimrc
 autocmd! bufwritepost .vimrc source %
 
-
+let g:snipMate = {'snippet_version': 1}
 
 "Formatting
 set nocompatible
