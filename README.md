@@ -35,6 +35,16 @@ mkdir bundle
 
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
+
+```
+cd ~
+cd .vim
+mkdir colors
+
+mv path/wombat256mod.vim ~/.vim/colors/
+```
+
+
 #### 2.1.2 Install Plugins
 #### 2.1.2.1 Manually
 * Go to the folder: cd ~/.vim/bundle/ 
